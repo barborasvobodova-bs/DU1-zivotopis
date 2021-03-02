@@ -1,0 +1,65 @@
+body {
+    color: #211522;
+    background-color: #EBE6DA;
+    line-height: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+a {
+    color: #613659;
+}
+
+h1 {
+    padding: 20px 13%;
+    margin: 0;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+}
+
+h4 {
+    margin-bottom: 0;}
+
+.paticka {
+    background-color:#211522;
+    color:#EBE6DA;
+    text-align:center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+.foto-profil {
+    border-radius: 50%;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+section {
+    padding: 20px 15%;
+}
+
+
+
+.hlavicka {
+    background-image: url(obrazky/obrazek-hlavicka.png);
+    padding: 150px 30px;
+    background-position: center;
+    background-size: cover;
+}
